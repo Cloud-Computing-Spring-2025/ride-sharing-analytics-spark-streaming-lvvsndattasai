@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/dattasailingam/ride-sharing-analytics-spark-streaming-lvvsndattasai/output/task2/part-00000-4111c11c-f01a-4143-a0bd-d3995c77e740-c000.csv","size":0,"isDir":false,"modificationTime":1743634169579,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/dattasailingam/ride-sharing-analytics-spark-streaming-lvvsndattasai/output/task2/part-00064-0df6d97b-d41c-4eae-b70a-235bf01baaeb-c000.csv","size":41,"isDir":false,"modificationTime":1743634170128,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/dattasailingam/ride-sharing-analytics-spark-streaming-lvvsndattasai/output/task2/part-00093-ce0e16cc-87f1-47fb-ae6f-8967e83e5002-c000.csv","size":42,"isDir":false,"modificationTime":1743634170346,"blockReplication":1,"blockSize":33554432,"action":"add"}
